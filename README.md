@@ -1,14 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Edoardo Riggio. I am a Computer Science BSc Student/freelance software developer/aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I also am the founder of ERC Apps. You can find me on [Instagram](https://www.instagram.com/erc_apps) and on [Linkedin](https://www.linkedin.com/in/edoardo-r-4822b910a/).
 
 
+## :wrench: Technologies and Tools
+![](https://img.shields.io/badge/OS-Manjaro_Linux-informational?style=flat&logo=manjaro&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=0f80c0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## :chart_with_upwards_trend: GitHub Stats
+
+<a href="https://github.com/edoriggio/edoriggio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoriggio&hide=html, css&title_color=000000&text_color=000000&bg_color=ffffff" />
+</a>
+<a href="https://github.com/edoriggio/edoriggio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edoriggio&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=0f80c0&bg_color=ffffff" alt="edoriggio's GitHub Stats" />
+</a>

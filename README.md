@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**edoriggio/edoriggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Edoardo Riggio. I am a Computer Science BSc Student/freelance software developer/aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I also am the founder of ERC Apps. You can find me on [Instagram](https://www.instagram.com/erc_apps) and on [Linkedin](https://www.linkedin.com/in/edoardo-r-4822b910a/).
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

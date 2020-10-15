@@ -4,6 +4,7 @@ My name is Edoardo Riggio. I am a Computer Science BSc Student // freelance soft
 
 
 ## :wrench: Technologies and Tools
+
 ![](https://img.shields.io/badge/OS-Manjaro_Linux-informational?style=flat&logo=manjaro&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=ee672f)
@@ -28,3 +29,7 @@ My name is Edoardo Riggio. I am a Computer Science BSc Student // freelance soft
 <a href="https://github.com/edoriggio/edoriggio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edoriggio&show_icons=true&line_height=27&count_private=true&title_color=4f94ef&text_color=000000&icon_color=4c71f2&bg_color=ffffff" alt="edoriggio's GitHub Stats" />
 </a>
+
+## :mortar_board: University Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=game-of-life)](https://github.com/edoriggio/game-of-life)

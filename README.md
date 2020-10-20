@@ -14,10 +14,12 @@ My name is Edoardo Riggio. I am a Computer Science BSc Student // freelance soft
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4cc61e)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=4cc61e)
 

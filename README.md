@@ -37,6 +37,7 @@ My name is Edoardo Riggio. I am a Computer Science BSc Student // freelance soft
 ## :mortar_board: University Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=game-of-life&show_owner=true)](https://github.com/edoriggio/game-of-life)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=checq.me&show_owner=true)](https://github.com/edoriggio/checq.me)
 
 ## :checkered_flag: Hackathon Projects
 

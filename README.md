@@ -1,8 +1,21 @@
-# Hi there 👋
+# Hi there :wave:
 
-My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI University // software developer // aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I am also the founder of ERC Apps. You can find me on [Instagram](https://www.instagram.com/erc_apps) and on [Linkedin](https://www.linkedin.com/in/edoardo-r-4822b910a/).
+My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI University // software developer // aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I am also the founder of ERC Apps.
 
+## :link: Useful Links
 
+<a href="https://www.linkedin.com/in/edoardo-r-4822b910a/">
+  <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">
+</a>
+
+<a href="https://www.instagram.com/erc_apps">
+  <img src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F">
+</a>
+
+<a href="https://dribbble.com/edoriggio">
+  <img src="https://img.shields.io/badge/Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=EA4C89">
+</a>
+  
 ## :wrench: Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Manjaro_Linux-informational?style=flat&logo=manjaro&logoColor=white&color=2bbc8a)
@@ -32,6 +45,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 <a href="https://github.com/edoriggio/edoriggio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoriggio&hide=html,css,java,tex&title_color=4f94ef&text_color=000000&bg_color=ffffff" />
 </a>
+
 <a href="https://github.com/edoriggio/edoriggio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edoriggio&show_icons=true&line_height=27&count_private=true&title_color=4f94ef&text_color=000000&icon_color=4c71f2&bg_color=ffffff" alt="edoriggio's GitHub Stats" />
 </a>

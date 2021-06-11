@@ -2,7 +2,7 @@
 
 My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI University // software developer // aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I am also the founder of ERC Apps.
 
-## :link: Useful Links
+## :link: Social Networks
 
 <a href="https://www.linkedin.com/in/edoardo-r-4822b910a/">
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">

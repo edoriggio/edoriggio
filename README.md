@@ -8,12 +8,12 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">
 </a>
 
-<a href="https://www.instagram.com/erc_apps">
-  <img src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F">
-</a>
-
 <a href="https://dribbble.com/edoriggio">
   <img src="https://img.shields.io/badge/Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=EA4C89">
+</a>
+
+<a href="https://www.instagram.com/erc_apps">
+  <img src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F">
 </a>
   
 ## :wrench: Technologies and Tools

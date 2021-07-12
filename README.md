@@ -4,7 +4,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 
 ## :link: Social Networks
 
-<a href="https://www.linkedin.com/in/edoardo-r-4822b910a/">
+<a href="https://www.linkedin.com/in/edoardo-riggio/">
   <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">
 </a>
 

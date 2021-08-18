@@ -45,7 +45,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 ## :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/edoriggio/edoriggio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoriggio&hide=html,css,java,tex&title_color=4f94ef&text_color=000000&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoriggio&hide=html,css,java,tex,shell&title_color=4f94ef&text_color=000000&bg_color=ffffff" />
 </a>
 
 <a href="https://github.com/edoriggio/edoriggio">

@@ -57,6 +57,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=game-of-life&show_owner=true)](https://github.com/edoriggio/game-of-life)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=checq.me&show_owner=true)](https://github.com/edoriggio/checq.me)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=cn-web-server&show_owner=true)](https://github.com/edoriggio/cn-web-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=raytracer&show_owner=true)](https://github.com/edoriggio/raytracer)
 
 ## :checkered_flag: Hackathon Projects
 

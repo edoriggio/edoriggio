@@ -62,3 +62,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 ## :checkered_flag: Hackathon Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=covid19-daily-newsletter&show_owner=true)](https://github.com/edoriggio/covid19-daily-newsletter)
+
+## :gear: Other Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=china-convitto&show_owner=true)](https://github.com/edoriggio/china-convitto)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=usi-sport-status&show_owner=true)](https://github.com/edoriggio/usi-sport-status)

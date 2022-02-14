@@ -31,6 +31,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Vue_Native-informational?style=flat&logo=vue.js&logoColor=white&color=ee672f)
+![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot-engine&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ee672f)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=ee672f)
@@ -39,18 +40,20 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 ![](https://img.shields.io/badge/Tools-JetBrains_Suite-informational?style=flat&logo=jetbrains&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-Godot_Engine-informational?style=flat&logo=godot-engine&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4cc61e)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=4cc61e)
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<a href="https://github.com/edoriggio/edoriggio">
-  <img align="center" src="https://github.com/edoriggio/github-stats/blob/master/generated/overview.svg" />
-</a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edoriggio&date_format=j%2Fn%5B%2FY%5D&fire=DD2222&ring=DD2222&currStreakLabel=DD2222&dates=A2A2A2&background=FFFFFF)](https://git.io/streak-stats"/>
+</div>
 
-<a href="https://github.com/edoriggio/edoriggio">
-  <img align="center" src="https://github.com/edoriggio/github-stats/blob/master/generated/languages.svg" />
-</a>
+<div align="center">
+  <img src="https://github.com/edoriggio/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/edoriggio/github-stats/blob/master/generated/languages.svg" />
+</div>
 
 ## :mortar_board: University Projects
 

@@ -41,6 +41,7 @@ My name is Edoardo Riggio. I am a BSc Student in Computer Science @ USI Universi
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Tools-Godot_Engine-informational?style=flat&logo=godot-engine&logoColor=white&color=0f80c0)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=0f80c0)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4cc61e)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=4cc61e)
 

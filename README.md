@@ -77,4 +77,5 @@ My name is Edoardo Riggio. I am a MSc Student in Software and Data Engineering @
 
 ## :gear: Other Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=china-convitto&show_owner=true)](https://github.com/edoriggio/china-convitto)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=usi-calendar-frontend&show_owner=true)](https://github.com/edoriggio/usi-calendar-frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=usi-sport-status&show_owner=true)](https://github.com/edoriggio/usi-sport-status)

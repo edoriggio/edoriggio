@@ -51,31 +51,9 @@ My name is Edoardo Riggio. I am a MSc Student in Software and Data Engineering @
 ## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edoriggio&date_format=j%2Fn%5B%2FY%5D&fire=DD2222&ring=DD2222&currStreakLabel=DD2222&dates=A2A2A2&background=FFFFFF)](https://git.io/streak-stats"/>
-</div>
-
-<div align="center">
   <img src="https://github.com/edoriggio/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/edoriggio/github-stats/blob/master/generated/languages.svg" />
 </div>
 
-## :mortar_board: University Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=game-of-life&show_owner=true)](https://github.com/edoriggio/game-of-life)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=checq.me&show_owner=true)](https://github.com/edoriggio/checq.me)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=cn-web-server&show_owner=true)](https://github.com/edoriggio/cn-web-server)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=raytracer&show_owner=true)](https://github.com/edoriggio/raytracer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=rasterizer&show_owner=true)](https://github.com/edoriggio/rasterizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=cape-simulation&show_owner=true)](https://github.com/edoriggio/cape-simulation)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=ai-cup&show_owner=true)](https://github.com/edoriggio/ai-cup)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=sudoku-sat&show_owner=true)](https://github.com/edoriggio/sudoku-sat)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=quantum-network&show_owner=true)](https://github.com/edoriggio/quantum-network)
-
-## :checkered_flag: Hackathon Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=covid19-daily-newsletter&show_owner=true)](https://github.com/edoriggio/covid19-daily-newsletter)
-
-## :gear: Other Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=china-convitto&show_owner=true)](https://github.com/edoriggio/china-convitto)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=usi-calendar-frontend&show_owner=true)](https://github.com/edoriggio/usi-calendar-frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=edoriggio&repo=usi-sport-status&show_owner=true)](https://github.com/edoriggio/usi-sport-status)
+## :gear: Projects
+All the descriptions of my applications, projects (along with some demos), and competitions I've participated in can be found on [my website](https://erc-apps.com/projects).

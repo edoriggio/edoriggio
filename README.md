@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-My name is Edoardo Riggio. I am a MSc Student in Software and Data Engineering @ USI University // software developer // aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I am also the founder of ERC Apps.
+My name is Edoardo Riggio. I am a PhD student in Informatics @ USI University // software engineer // aspiring UI/UX designer from Rome, Italy. I currently live in Lugano, Switzerland. I am also the founder of ERC Apps.
 
 ## :wrench: Technologies and Tools
 

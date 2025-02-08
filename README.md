@@ -42,4 +42,4 @@ My name is Edoardo Riggio. I am a PhD student in Informatics @ USI University //
 </div>
 
 ## :gear: Projects
-All the descriptions of my applications, projects (along with some demos), and competitions I've participated in can be found on [my website](https://erc-apps.com/projects).
+All the descriptions of my applications, projects (along with some demos), and competitions I've participated in can be found on [my website](https://edoriggio.com/#/projects).
